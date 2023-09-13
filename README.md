@@ -69,19 +69,19 @@ Unnecessary columns like 'customerid' are dropped to simplify the dataset.
 
 ### Dividing 'jobedu' Column <a name="dividing-jobedu-in-job-and-education"></a>
 
-A new 'Education' column is created by extracting values from the 'jobedu' column.
+A new `Education` column is created by extracting values from the `jobedu` column.
 
 ### Handling Missing Values <a name="handling-missing-values"></a>
 
-Missing values in the 'age' and 'month' columns are identified and handled appropriately. In the 'pdays' column, missing values are replaced with NaN.
+Missing values in the `age` and `month` columns are identified and handled appropriately. In the `pdays` column, missing values are replaced with NaN.
 
 ### Finding Duplicates <a name="finding-duplicates"></a>
 
-Duplicate records based on 'age' and 'response' columns are identified.
+Duplicate records based on `age` and `response` columns are identified.
 
 ### Outlier Handling <a name="outlier-handling"></a>
 
-Outliers in numerical variables like 'age,' 'salary,' and 'balance' are analyzed using boxplots and quantiles.
+Outliers in numerical variables like `age`, `salary`, and `balance` are analyzed using boxplots and quantiles.
 
 ### Standardizing Variables <a name="standarize-variable"></a>
 
@@ -89,7 +89,7 @@ The 'duration' variable is standardized to ensure uniformity.
 
 ### Univariate Analysis <a name="univariate-analysis-categorical-features"></a>
 
-Univariate analysis explores categorical features like 'marital,' 'job,' 'education,' 'poutcome,' and the target variable 'response.' Visualizations such as bar plots and pie charts provide insights.
+Univariate analysis explores categorical features like `marital`, `job`, `education`, `poutcome`, and the target variable `response`. Visualizations such as bar plots and pie charts provide insights.
 
 ### Bivariate Analysis <a name="bivariate-analysis"></a>
 

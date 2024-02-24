@@ -3,7 +3,7 @@
 This repository contains a data analysis project that focuses on exploring and analyzing a dataset from a bank. The dataset, stored in a CSV file named `bank_data.csv`, contains various customer-related information, such as age, job, education, and financial details.
 
 ## Table of Contents
-
+Rakesh KUmar
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
